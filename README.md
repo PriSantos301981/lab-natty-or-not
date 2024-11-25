@@ -20,22 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Video divertido ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Video onde consta a historia de um cachorro
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[Liste as IAs Generativas e outras ferramentas usadas](https://platform.openai.com/docs/guides/audio)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+criar um avatar para contar a historia do cachorro
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+historia contada por avatar
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+achei um pouco dificil
 ```
 
 ### Exemplos e Insigths
